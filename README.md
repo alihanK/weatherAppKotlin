@@ -1,4 +1,4 @@
-# weatherAppKotlin
+# WeatherAppKotlin
 # Kotlin JetPack Compose and used in this project openweathermap weather api as api.
 
 ![compose](https://github.com/user-attachments/assets/4f9631f2-87a8-4881-a3c2-4c1bcfd2ddc7)
