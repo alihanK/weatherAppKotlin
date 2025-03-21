@@ -1,7 +1,8 @@
 # WeatherAppKotlin
 # Kotlin JetPack Compose and openweathermap weather api used in this project.
 
-![compose](https://github.com/user-attachments/assets/4f9631f2-87a8-4881-a3c2-4c1bcfd2ddc7)
+![compose_logo](https://github.com/user-attachments/assets/54e97660-37f1-4dfc-9935-4dee4c9608de)
+
 
 ![wthr1](https://github.com/user-attachments/assets/a3833dad-e3ff-4882-b403-e608af6d2899)
 ![wthr2](https://github.com/user-attachments/assets/63c6f301-70a1-44f1-a7cc-8bf9dab98dba)
